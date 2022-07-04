@@ -1,0 +1,7 @@
+def div():
+    num1=int(input("Enter number1"))
+    num2=int(input("Enter number2"))
+    div=num1/num2
+    print(div)
+div()
+div()
